@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yousfmo2
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning pyton and c++
+- 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me :i dont know
 - 😄 Pronouns: ...
